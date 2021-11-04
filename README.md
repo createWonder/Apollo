@@ -11,7 +11,7 @@ Apollo is interactive virtual reality (VR) world that is being developed using t
 The world relates to the mythical Greek god Apollo and has no relation to the spacecrafts! 
 The world instead focuses on Apollo’s traits, namely truth, light, archery, music, and poetry. They will be depicted as regions with unique characteristics but still having a unified theme. World visitors will start from the courtyard. The courtyard is center point where all the regions join. There will be pavements leading to the regions to guide visitors.
 
- The regions are:
+ World regions:
  
 (1) Archery: In this region a visitor can practice hunting or explore the scenery, apart from archery. 
 
