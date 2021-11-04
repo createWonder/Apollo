@@ -13,13 +13,13 @@ The world instead focuses on Apollo’s traits, namely truth, light, archery, mu
 
  World regions:
  
-(1) Archery: In this region a visitor can practice hunting or explore the scenery, apart from archery. 
+(1) Archery:In this region a visitor can practice hunting or explore the scenery, apart from archery. 
 
-(2) Truth: This region will be dim, ghoulish, and filled with mystery. This dark and trees that line the path to truth are dead leafless trees.   
+(2) Truth:This region will be dim, ghoulish, and filled with mystery. This dark and trees that line the path to truth are dead leafless trees.   
 
-(4) Light: Still working on this region!!
+(4) Light
 
-(5) Music and Poetry:  It will be whimsical world with music and the harp. 
+(5) Music and Poetry:It will be whimsical world with music and the harp. 
 
 ⚠️ Apollo is  underdevelopment and is subject to change. ⚠️ 
 
