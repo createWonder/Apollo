@@ -1,0 +1,24 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.2 0.2 grnd01.jpg
+bump -s 0.2 0.2 grnd01b.jpg -bm 0.45
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.166667 0.166667 grnd01.jpg
+bump grnd01b.jpg -bm 0.64
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.2 0.2 cut71M.jpg
+bump -s 0.2 0.2 cut71Mb.jpg -bm 1
+Ni 1.00
